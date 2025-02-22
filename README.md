@@ -1,7 +1,7 @@
 # Alzheimer's MRI Classification
 
 ## Overview
-This project is an advanced deep learning pipeline for classifying Alzheimer's disease using MRI scans. The model categorizes brain images into different stages of dementia, leveraging convolutional neural networks (CNNs) and TensorFlow/Keras.
+This project is an advanced deep learning pipeline for classifying Alzheimer's disease using MRI scans. The model categorizes brain images into different stages of dementia, leveraging XceptionNet model and TensorFlow/Keras.
 
 This assignment was conducted under the supervision of **Dr. Noha Alattar** as part of a deep learning course.
 
